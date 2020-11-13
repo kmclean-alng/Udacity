@@ -2,6 +2,8 @@
 
 ## Free Nanodegree Preview
 https://blog.udacity.com/category/free-preview
+You can find all links related to free previews of nanodegrees. As of 13/11/2020, there are no free previews available.
+https://blog.udacity.com/search/label/free-preview
 
 ## Introduction
 
@@ -13,7 +15,7 @@ If you are planning to start any Nanodegree then the Downloads folder contains t
 
 ## How to contribute
 
-If you want to submit any new thing to this repo that will help the Nanodegree students then feel free to submit the PR.
+If you want to submit any new thing to this repo that will help the Nanodegree students then feel free to submit the PR (Public Repository?).
 
 ### Steps
 
